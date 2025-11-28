@@ -1,0 +1,8 @@
+{
+  "appId": "com.quoteflow.app",
+  "appName": "QuoteFlow",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

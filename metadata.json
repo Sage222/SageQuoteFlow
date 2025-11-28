@@ -1,0 +1,5 @@
+{
+  "name": "QuoteFlow",
+  "description": "A mobile-first web application that generates inspirational quotes and reads them aloud using advanced AI text-to-speech.",
+  "requestFramePermissions": []
+}
